@@ -1,0 +1,12 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A clean, simple to-do application built with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["todo", "nodejs", "vanilla"],
+  "author": "",
+  "license": "ISC"
+}
